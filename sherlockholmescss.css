@@ -1,0 +1,71 @@
+
+
+h1{
+	font-family: 'Dancing Script', cursive;
+	padding-left: 1.5em;
+	font-size: 2.5em;
+}
+
+.nav li{
+	color: white;
+	display: inline;
+	font-size: 1em;
+	font-family: 'Fjalla One', sans-serif;
+	padding: 3em;
+	text-transform: uppercase;
+}
+
+.navclass{
+	background-color: black;
+	padding: 0.05em;
+	margin: 0px auto;
+}
+
+.background{
+	background-image: url("http://4.darkroom.shortlist.com/1200/3fbf1c9d56bd78928a3d871ea9b67c24:44f312ebd61d426b2d976e837d6f481b/sherlock-holmes-statue.jpg");
+	background-size: cover;
+	height: 600px;
+	margin: 0px auto;
+}
+
+.container{
+	margin: 0px auto;
+}
+
+.main h1{
+	text-align: right;
+	padding-top: 5em;
+	padding-right: 1em;
+	font-family: 'Lemonada', cursive;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.main p{
+	text-align: right;
+	padding-right: 4em;
+	font-family: 'Sacramento', cursive;
+	font-style: italic;
+	margin-top: 0;
+	font-size: 1.4em;
+	font-weight: bold;
+}
+
+.intro h1{
+	text-align: center;
+	font-family: 'Satisfy', cursive;
+	font-size: 2.3em;
+}
+
+.introduction p{
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 1.2em;
+	padding-right: 7em;
+	padding-left: 7em;
+}
+
+.foot{
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+}
