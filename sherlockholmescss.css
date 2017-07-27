@@ -39,6 +39,7 @@ h1{
 	font-family: 'Lemonada', cursive;
 	margin-top: 0;
 	margin-bottom: 0;
+	color: dimgrey;
 }
 
 .main p{
@@ -49,6 +50,7 @@ h1{
 	margin-top: 0;
 	font-size: 1.4em;
 	font-weight: bold;
+	color: dimgrey;
 }
 
 .intro h1{
